@@ -21,9 +21,9 @@ export default function Home() {
     const currentBgImage = bgImages[bgIndex]
 
     return (
-        <main className={styles.main} style={{ backgroundImage: `url(${currentBgImage})` }}>
-            <div className={styles.background}></div>
-            <div className={`${styles.heroBg} hero`} style={{ backgroundImage: `url(${currentBgImage})` }}>
+        <main className={styles.main}>
+            <div className={styles.background} style={{ backgroundImage: `url(${currentBgImage})` }}></div>
+            <div className={`${styles.heroBg} hero`}>
                 <div className={styles.heroTitleContainer}>
                     <h1 className={styles.heroTitle}><em>Alive</em> 88.5 KRLF</h1>
                     <h2 className={styles.heroTitle}>Christian Radio for the Palouse Region</h2>
