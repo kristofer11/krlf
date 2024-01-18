@@ -1,10 +1,27 @@
+nav .container {
+    padding-inline: 4rem;
+    align-items: end !important;
+}
+
 .navbar-brand{
     img {
-        width: 188px;
+        width: 144px;
         height: auto;
     }
 }
 
 .container {
     max-width: unset;
+}
+
+.navbar-nav a {
+    font-size: 1.3rem;
+}
+
+
+
+@media (max-width: 767.98px) {
+    nav .container{
+        padding-inline: 1rem;
+    }
 }

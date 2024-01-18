@@ -1,0 +1,20 @@
+footer {
+    display: flex; 
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    
+    .copyright-div, .email-div {
+        display: flex;
+        flex-direction: column;
+        p {
+            margin: 0;
+        }
+    }
+}
+
+@media (max-width: 767.98px) {
+    footer{
+        flex-wrap: wrap;
+    }
+}
