@@ -73,7 +73,7 @@ export default function Home() {
                             height='865'
                             alt='wheat field'
                         />
-                        <p>We are a local station run mostly by volunteers.  We do quite a bit of our own programming (check out our Programs page!), but the bulk of our music feed and live DJ talk comes from a growing Christian Adult Contemporary music network, Christian FM.  We chose Christian FM because they, like us, are "on a mission".  Our mission is to spread the good news of Jesus Christ and to help the Christians in our area grow in their spiritual walk through our choice of music and programming.  We hope that we are doing just that and we hope that you, our listeners, like the changes that we have made.  We want you to feel like this is your station and we always welcome your feedback.</p>
+                        <p>We are a local station run mostly by volunteers.  We do quite a bit of our own programming (check out our Programs page!), but the bulk of our music feed and live DJ talk comes from a growing Christian Adult Contemporary music network, Christian FM.  We chose Christian FM because they, like us, are &bdquo;on a mission&bdquo;.  Our mission is to spread the good news of Jesus Christ and to help the Christians in our area grow in their spiritual walk through our choice of music and programming.  We hope that we are doing just that and we hope that you, our listeners, like the changes that we have made.  We want you to feel like this is your station and we always welcome your feedback.</p>
                     </div>
 
                 </div>
