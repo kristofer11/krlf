@@ -1,0 +1,18 @@
+:root {
+
+    --main-bg-color: #F7F8F9;
+    --main-text-color: #000;
+    --main-light-text-color: #fff;
+    
+    --accent-color: #35A541;
+    --accent-color2: #3561A5;
+    --accent-color3: #A53599;
+    --accent-color4: #A57935;
+
+
+    /* --alt-bg-color: #A1A4A3;
+    --nav-link-color: #5F0C0B;
+    --link-hover-bg-color: #152d7d;
+    --accent-text-color: #566A39;
+    --main-font: 'Roboto Slab', serif; */
+}
