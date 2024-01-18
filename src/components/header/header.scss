@@ -1,0 +1,32 @@
+header {
+    border-bottom: 0.4rem solid #35A541;
+}
+
+
+nav .container {
+    padding-inline: 4rem;
+    align-items: end !important;
+}
+
+.navbar-brand{
+    img {
+        width: 144px;
+        height: auto;
+    }
+}
+
+.container {
+    max-width: unset;
+}
+
+.navbar-nav a {
+    font-size: 1.3rem;
+}
+
+
+
+@media (max-width: 767.98px) {
+    nav .container{
+        padding-inline: 1rem;
+    }
+}
